@@ -11,4 +11,3 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=SiwonHae">
 
 ![SiwonHae's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiwonHae&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiwonHae&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/SiwonHae)
