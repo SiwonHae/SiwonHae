@@ -8,6 +8,5 @@
 - JavaScript
 - Web(HTML, CSS, React)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=SiwonHae">
-
-![SiwonHae's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiwonHae&show_icons=true&theme=react)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=SiwonHae"> <!-- 백준 티어 -->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=SiwonHae&show_icons=true&theme=graywhite" height="165"> <!-- 
