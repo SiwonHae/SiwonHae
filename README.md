@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 ### Introduction
-```
+```JavaScript
 console.log('Welcome to my GitHub!')
 ```
 - I'm a student studying web programming.
