@@ -2,6 +2,12 @@
 <a href="https://karen0117.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-FF5722]?style=flat-square&logo=Blogger]&logoColor=white"/></a> 
 ### Hi there 👋
 
+### Introduction
+```
+console.log('Welcome to my GitHub!')
+```
+- I'm a student studying web programming.
+
 ### Learning
 - C/C++
 - JavaScript
