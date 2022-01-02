@@ -3,14 +3,18 @@
 ### Hi there 👋
 
 ### Introduction
-```JavaScript
-console.log('Welcome to my GitHub!')
+```C++
+#include <iostream>
+using namespace std;
+int main() {
+  cout << "Welcome to my Github!\n"
+  return 0;
+}
 ```
-- I'm a student studying web programming.
+- 프로그래밍을 공부하고 있는 학생입니다.
 
 ### Learning
 - C/C++
-- JavaScript
 - Web(HTML, CSS, React)
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=SiwonHae"> <!-- 백준 티어 -->
