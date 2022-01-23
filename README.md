@@ -14,8 +14,8 @@ int main() {
 - 프로그래밍을 공부하고 있는 학생입니다.
 
 ### Learning
-- C/C++
-- Web(HTML, CSS, React)
+- C/C++ (PS)
+- Web(HTML, CSS, React, Java)
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=SiwonHae"> <!-- 백준 티어 -->
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SiwonHae&show_icons=true&theme=vue" height="165"> <!-- git stats -->
