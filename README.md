@@ -7,11 +7,10 @@
 #include <iostream>
 using namespace std;
 int main() {
-  cout << "Welcome to my Github!\n"
+  cout << "Welcome to my Github!";
   return 0;
 }
 ```
-- 프로그래밍을 공부하고 있는 학생입니다.
 
 ### Learning
 - C/C++ (PS)
