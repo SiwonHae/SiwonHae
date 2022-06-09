@@ -13,7 +13,7 @@ int main() {
 
 ### Learning
 - C/C++ (PS)
-- Vue3.js (WEB-Frontend)
+- React (WEB-Frontend)
 - Node.js(NestJS), Java(Spring, Spring Boot) (WEB-Backend)
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=SiwonHae"> <!-- 백준 티어 -->
