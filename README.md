@@ -13,8 +13,7 @@ int main() {
 
 ### Learning
 - C/C++ (PS)
-- React (WEB-Frontend)
-- Node.js(NestJS), Java(Spring, Spring Boot) (WEB-Backend)
+- Java(Spring, Spring Boot) (WEB-Backend)
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=SiwonHae"> <!-- 백준 티어 -->
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SiwonHae&show_icons=true&theme=nord" height="165"> <!-- git stats -->
