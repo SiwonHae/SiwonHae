@@ -1,8 +1,8 @@
 # 임 주혁(Lim JuHyuk) 
 
 ## 경력 사항
-* 2020.03 ~ .. 광운대학교 소프트웨어학부 재학
-* 2023.09 ~ .. Google Developer Student Clubs KW Back-End Member 1기
+* 2020.03 ~ 2025.02(예정) 광운대학교 소프트웨어학부 재학
+* 2023.09 ~ 2024.08 Google Developer Student Clubs KW Back-End Member 1기
 * 2024.02 ~ .. KW-IDEA Lab 학부연구생(개발인턴) Back-End
 
 ## ⚒ 기술 스택
