@@ -1,6 +1,6 @@
 # 임 주혁(Lim JuHyuk) 
 
-## Backend Developer
+## Server Developer
 * 2025.06 ~ ing **MaiT(Medical AI Team)** Software Engineer Intern
 * 2024.09 ~ 2025.02 **University MakeUs Challenge** KWU Server 7기
 * 2024.02 ~ 2026.02(예정) **KW-IDEA Lab** 학부연구생(개발인턴) Back-End
