@@ -1,4 +1,4 @@
-# 임 주혁(Lim JuHyuk) 
+# Juhyuk Lim (임주혁) 
 
 ## Server Developer
 * 2025.06 ~ ing **MaiT(Medical AI Team)** Software Engineer Intern
