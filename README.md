@@ -1,6 +1,7 @@
 # Juhyuk Lim (임주혁) 
 
 ## Server Developer
+* 2026.01 ~ ing **Shinyoung Securities Co., LTD.** Senior Associate
 * 2025.06 ~ 2025.12 **MaiT(Medical AI Team)** Software Engineer Intern
 * 2024.09 ~ 2025.02 **University MakeUs Challenge** KWU Server 7기
 * 2024.02 ~ 2025.08 **KW-IDEA Lab** 학부연구생(개발인턴) Back-End
